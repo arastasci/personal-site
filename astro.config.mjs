@@ -4,7 +4,6 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://arastasci.github.io/personal-site/",
-  base: "",
+  site: 'https://arastasci.com',
   integrations: [mdx(), sitemap(), tailwind()],
 });
