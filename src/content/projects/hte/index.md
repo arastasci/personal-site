@@ -1,12 +1,12 @@
 ---
 title: "Hail the Emperor"
-description: "Scalable, modular game project integrating Steamworks and advanced AI."
+description: "A co-op game project for Steam."
 date: "April 1 2024"
 demoURL: "N/A"
 repoURL: "N/A"
 ---
 
-Hail the Emperor is a  Unity project designed from the ground up for online co-op play. It leverages advanced architectural patterns, netcode, and Steam integration to provide a robust multiplayer experience.
+Hail the Emperor is a  Unity project designed from the ground up for online co-op play. It showcases architectural patterns, netcode, and Steam integration to provide a robust multiplayer experience.
 
 ## Features
 

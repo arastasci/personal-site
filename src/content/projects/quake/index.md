@@ -1,12 +1,12 @@
 ---
 title: "Online Multiplayer Shooter Game"
-description: "Quake-like shooter built with Unity, C#, and AWS."
+description: "Quake-like multiplayer shooter built with Unity."
 date: " Sep 2 2022"
 demoURL: "N/A"
 repoURL: "https://github.com/arastasci/multiplayer-shooter"
 ---
 
-An online multiplayer shooter inspired by classic arena shooters, using a custom .NET Socket-based networking solution. It was deployed with a dedicated Linux server through AWS for seamless online sessions.
+An online multiplayer shooter inspired by classic arena shooters, using a custom .NET Socket-based networking solution. 
 
 ![Gameplay](/arenaGifv2.gif)
 
@@ -14,3 +14,4 @@ An online multiplayer shooter inspired by classic arena shooters, using a custom
 
 - **Unity** 
 - **.NET Sockets** 
+- - **Client-Server Architecture** 
