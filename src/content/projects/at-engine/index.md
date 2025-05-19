@@ -8,14 +8,20 @@ repoURL: "N/A"
 
 @Engine is a custom 3D game engine focusing on a data-oriented approach. It leverages C++, OpenGL, ImGui, and EnTT for my personal game projects.
 
+Here's a clip from a simple flight simulator game I made:
+![FlightSim Game](/dogfighting.gif)
+
 Here's a clip from the WIP scene editor:
 ![Scene Editor](/scene-editor.gif)
 
 ## Features
-- **Steam GameNetworkingSockets** for networking
 - **Bullet Physics integration**
-- **Editor** for scene editing and inspection
 - **Data-oriented architecture** for improved performance and scalability  
 - **OpenGL + GLSL** rendering  
-- **ImGui** integration for real-time debugging and in-engine tools  
 - **EnTT** library for efficient entity-component management and data oriented design
+
+## WIP Features
+- **Steam GameNetworkingSockets** for networking
+- **Editor** for scene editing and inspection
+- **ImGui** integration for real-time debugging and in-engine tools  
+
